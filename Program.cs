@@ -30,6 +30,7 @@ namespace Zoolandia
             Console.WriteLine(NewBatfish.Color);
             Console.WriteLine(NewBatfish.Species);
             Console.WriteLine(NewBatfish.Size);
+            
               
         }
     }

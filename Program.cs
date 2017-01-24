@@ -7,29 +7,29 @@ namespace Zoolandia
     {
         public static void Main(string[] args)
         {
-            Console.WriteLine("Quack, Quack!");
+            Console.WriteLine("Squeek, Squeek!");
             
             var JennifersAnimals = new Animal();
-            JennifersAnimals.Color = "Black";
-            JennifersAnimals.Species = "Cat";
-            JennifersAnimals.Size = "Large";
+            JennifersAnimals.Name = "Black";
+            JennifersAnimals.Color = "Cat";
+            JennifersAnimals.Length = "Large";
 
             Console.WriteLine(JennifersAnimals.Color);
             
-            Panda NewPanda = new Panda("p", "k", "z");
-            Console.WriteLine(NewPanda.Color);
-            Console.WriteLine(NewPanda.Species);
-            Console.WriteLine(NewPanda.Size);
+            Wolf NewWolfInstance = new Wolf();
+            Console.WriteLine(NewWolfInstance.Name);
+            Console.WriteLine(NewWolfInstance.Color);
+            Console.WriteLine(NewWolfInstance.Length);
 
-            Fossa NewFossa = new Fossa("a", "b", "c");
-            Console.WriteLine(NewFossa.Color);
-            Console.WriteLine(NewFossa.Species);
-            Console.WriteLine(NewFossa.Size);
+            // Felis NewFelis = new Felis("a", "b", "c");
+            // Console.WriteLine(NewFelis.Name);
+            // Console.WriteLine(NewFelis.Color);
+            // Console.WriteLine(NewFelis.Length);
 
-            Batfish NewBatfish = new Batfish("j","k","l");
-            Console.WriteLine(NewBatfish.Color);
-            Console.WriteLine(NewBatfish.Species);
-            Console.WriteLine(NewBatfish.Size);
+            // Talpa NewTalpa = new Talpa("j","k","l");
+            // Console.WriteLine(NewTalpa.Name);
+            // Console.WriteLine(NewTalpa.Color);
+            // Console.WriteLine(NewTalpa.Length);
             
               
         }

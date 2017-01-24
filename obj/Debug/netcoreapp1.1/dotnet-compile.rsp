@@ -87,9 +87,14 @@
 --reference:/Users/jenniferdutton/.nuget/packages/System.Threading.Timer/4.3.0/ref/netstandard1.2/System.Threading.Timer.dll
 --reference:/Users/jenniferdutton/.nuget/packages/System.Xml.ReaderWriter/4.3.0/ref/netstandard1.3/System.Xml.ReaderWriter.dll
 --reference:/Users/jenniferdutton/.nuget/packages/System.Xml.XDocument/4.3.0/ref/netstandard1.3/System.Xml.XDocument.dll
-/Users/jenniferdutton/Documents/zoolandia/Animals.cs
-/Users/jenniferdutton/Documents/zoolandia/Batfish.cs
-/Users/jenniferdutton/Documents/zoolandia/Fossa.cs
-/Users/jenniferdutton/Documents/zoolandia/panda ant.cs
 /Users/jenniferdutton/Documents/zoolandia/Program.cs
-/Users/jenniferdutton/Documents/zoolandia/zoolandia1.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Animals.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Canis.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Felis.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Talpa.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Species/Davidia.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Species/Dog.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Species/European.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Species/Lynx.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Species/Puma.cs
+/Users/jenniferdutton/Documents/zoolandia/Animals/Genus/Species/Wolf.cs
